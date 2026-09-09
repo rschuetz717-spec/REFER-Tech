@@ -1,5 +1,2 @@
-1.0.1|https://rschuetz717-spec.github.io/REFER-Tech/dcm-1.0.1.bin
-1.0.2|https://rschuetz717-spec.github.io/REFER-Tech/dcm-1.0.2.bin
-1.0.3|https://rschuetz717-spec.github.io/REFER-Tech/NORVI_Duty_Cycle_Monitor_51.bin
 1.0.4|https://rschuetz717-spec.github.io/REFER-Tech/NORVI_Duty_Cycle_Monitor_53.bin
 1.0.5|https://rschuetz717-spec.github.io/REFER-Tech/NORVI_Duty_Cycle_Monitor_57.bin
